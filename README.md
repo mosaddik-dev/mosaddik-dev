@@ -14,7 +14,7 @@ Skills: HTML / CSS / JS /  TAILWIND / SASS / WIX / VELO
 <p align="left">
 <a href="https://dev.to/mosaddeek_billah_12002896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mosaddeek_billah_12002896" height="30" width="40" /></a>
 <a href="https://twitter.com/mosaddik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosaddik07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mosaddeek-billah-329b3b311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaddeek-billah-329b3b311/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mosaddikbillah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaddeek-billah-329b3b311/" height="30" width="40" /></a>
 <a href="https://fb.com/mosaddik.billahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mosaddik.billahh" height="30" width="40" /></a>
 </p>
 
