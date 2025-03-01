@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Mosaddik
-#### Web Devoloper
+#### Wix Velo Devoloper
 
 Allah's light guides me♔
 
-Skills: HTML / CSS / JS /  TAILWIND / SASS
+Skills: HTML / CSS / JS /  TAILWIND / SASS / WIX / VELO
 
 - 🌱 I’m currently learning JS / Tailwind / React  
 - 💬 Ask me about Github 
