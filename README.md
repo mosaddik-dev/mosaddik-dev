@@ -1,11 +1,9 @@
 ### Hi there 👋, my name is Mosaddik
 #### Wix Velo Devoloper
 
-Allah's light guides me♔
+Skills: HTML / CSS / JS / NODE JS / React.js / TAILWIND / SASS / WIX / VELO
 
-Skills: HTML / CSS / JS /  TAILWIND / SASS / WIX / VELO
-
-- 🌱 I’m currently learning JS / Tailwind / React  
+- 🌱 I’m currently learning Web Security / SEO
 - 💬 Ask me about Github 
 - ⚡ Fun fact: I Think I am Funny🙂 
 
@@ -14,7 +12,7 @@ Skills: HTML / CSS / JS /  TAILWIND / SASS / WIX / VELO
 <p align="left">
 <a href="https://dev.to/mosaddeek_billah_12002896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mosaddeek_billah_12002896" height="30" width="40" /></a>
 <a href="https://twitter.com/mosaddik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosaddik07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mosaddikbillah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaddeek-billah-329b3b311/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mosaddique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaddeek-billah-329b3b311/" height="30" width="40" /></a>
 <a href="https://fb.com/mosaddik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mosaddik.dev" height="30" width="40" /></a>
 </p>
 
