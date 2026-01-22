@@ -1,30 +1,29 @@
-### Hi there 👋, my name is Mosaddik
-#### Wix Velo Devoloper
+### Hi there 👋, My name is Mosaddik Billah
+#### Full-Stack Wix Developer (Velo, React, Node) | Custom Apps via CLI | Engineering SEO-Ready Web Experiences | 2+ Years Exp.
 
-Skills: HTML / CSS / JS / NODE JS / React.js / TAILWIND / SASS / WIX / VELO
 
-- 🌱 I’m currently learning Web Security / SEO
+Skills: HTML / CSS / JavaScript / Node.js / React.js / Express.js / Tailwind / Sass / WIX / VELO
+
+- 🌱 I’m currently learning Web Security / AI (Artificial Intelligence) 
 - 💬 Ask me about Github 
-- ⚡ Fun fact: I Think I am Funny🙂 
+- ⚡ Fun fact: I Think I am Funny 🙂 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mosaddeek_billah_12002896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mosaddeek_billah_12002896" height="30" width="40" /></a>
-<a href="https://twitter.com/mosaddik07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosaddik07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mosaddique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaddeek-billah-329b3b311/" height="30" width="40" /></a>
 <a href="https://fb.com/mosaddik.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mosaddik.dev" height="30" width="40" /></a>
+<a href="https://dev.to/mosaddik-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mosaddeek_billah_12002896" height="30" width="40" /></a>
 </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mosaddik07)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaddik-dev&theme=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosaddik07)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosaddik-dev&theme=github)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mosaddik07&show_icons=true)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosaddik-dev&theme=github)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mosaddik07/contributions?format=svg&private=false)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mosaddik-dev&theme=github)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mosaddik07)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mosaddik-dev&theme=github&utcOffset=8)
 
