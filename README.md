@@ -17,13 +17,13 @@ Skills: HTML / CSS / JavaScript / Node.js / React.js / Express.js / Tailwind / S
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaddik-dev&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaddik-dev&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosaddik-dev&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosaddik-dev&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosaddik-dev&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosaddik-dev&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mosaddik-dev&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mosaddik-dev&theme=bear)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mosaddik-dev&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mosaddik-dev&theme=bear&utcOffset=8)
 
