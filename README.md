@@ -67,23 +67,6 @@ and yeah, I *think* I'm funny 😄
 
 ---
 
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mosaddique/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/mosaddik.dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://dev.to/mosaddik-dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-</a>
-</p>
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaddik-dev&theme=bear)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosaddik-dev&theme=bear)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosaddik-dev&theme=bear)
