@@ -64,14 +64,3 @@ I enjoy working close to the engineering layer — writing clean logic, integrat
 ### ⚡ Fun Fact
 I enjoy solving complex problems —  
 and yeah, I *think* I'm funny 😄
-
----
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosaddik-dev&theme=bear)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mosaddik-dev&theme=bear)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mosaddik-dev&theme=bear)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mosaddik-dev&theme=bear&utcOffset=8)
-
