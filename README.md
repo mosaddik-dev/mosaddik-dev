@@ -1,6 +1,13 @@
 <div align="center">
 
-# Hi, I'm Mosaddik Billah 👋
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mosaddik!" alt="Typing SVG" /></a>
+</div>
+
+---
 
 **Full-Stack Wix Developer (Velo) | React & Node.js | Custom Apps via Wix CLI**
 
