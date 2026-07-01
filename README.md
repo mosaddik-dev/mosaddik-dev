@@ -3,7 +3,7 @@
 <img width=300 src="./assets/main.gif"/>    
 <br/>
 <br/>
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mosaddik!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mosaddik!" alt="Typing SVG" /></a>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=1000&color=E0DFF1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Wix+Developer;React+%7C+Node.js+%7C+Velo" />
