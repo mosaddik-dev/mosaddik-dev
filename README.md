@@ -15,23 +15,6 @@
 
 ---
 
-<h4 align="center">
-  
-```js
-/*=========================================*\
-|                                           |
-|    .--.     $ ./life.sh                   |
-|   |o_o |    > Keep trying...              |
-|   |:_/ |                                  |
-|  //   \ \   while( !(succeed=try()) );    |
-| (|     | )                                |
-|/'\_   _/`\  Programming isn't about       |
-|\___)=(___/  what you know. It's about     |
-|             what you can figure out.      |
-\*=========================================*/
-```
-</h4>  
-
 ## 🛠️ Skills & Technologies
 
 **Core Web**
