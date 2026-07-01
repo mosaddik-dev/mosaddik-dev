@@ -5,9 +5,11 @@
 <br/>
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=true&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mosaddik!" alt="Typing SVG" /></a>
 
----
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=3000&pause=1000&color=E0DFF1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Wix+Developer;React+%7C+Node.js+%7C+Velo" />
+
+---
+
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40mosaddik--dev-6e40c9.svg?logo=github&variant=branded&size=sm)](https://github.com/mosaddik-dev) [![Website](https://www.shieldcn.dev/badge/Website-mosaddik.is--a.dev-6366f1.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://mosaddik.is-a.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mosaddique-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/mosaddique) [![Dev.to](https://www.shieldcn.dev/badge/Dev.to-Dev.to-e535ab.svg?logo=devdotto&variant=branded&size=sm)](https://dev.to/mosaddik-dev)
 
