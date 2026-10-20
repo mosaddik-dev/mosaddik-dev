@@ -11,7 +11,7 @@
 ---
 
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40mosaddik--dev-6e40c9.svg?logo=github&variant=branded&size=sm)](https://github.com/mosaddik-dev) [![Website](https://www.shieldcn.dev/badge/Website-mosaddik.is--a.dev-6366f1.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://mosaddik.is-a.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mosaddique-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/mosaddique) [![Dev.to](https://www.shieldcn.dev/badge/Dev.to-Dev.to-e535ab.svg?logo=devdotto&variant=branded&size=sm)](https://dev.to/mosaddik-dev)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40mosaddik--dev-6e40c9.svg?logo=github&variant=branded&size=sm)](https://github.com/mosaddik-dev) [![Website](https://www.shieldcn.dev/badge/Website-mosaddik.is--a.dev-6366f1.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://mosaddik.is-a.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40mosaddique-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/mosaddikdev) [![Dev.to](https://www.shieldcn.dev/badge/Dev.to-Dev.to-e535ab.svg?logo=devdotto&variant=branded&size=sm)](https://dev.to/mosaddik-dev)
 
 [![GitHub Followers](https://www.shieldcn.dev/github/followers/mosaddik-dev.svg?variant=secondary&size=sm&color=6e40c9)](https://github.com/mosaddik-dev?tab=followers) [![Public Repos](https://www.shieldcn.dev/badge/Repos-108-6366f1.svg?logo=github&variant=secondary&size=sm)](https://github.com/mosaddik-dev?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Kurigram._Bangladesh_-10b981.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-WixSquad-f59e0b.svg?logo=building&variant=default&size=sm)
 
