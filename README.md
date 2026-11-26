@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6e40c9,100:6366f1&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6e40c9,100:6366f1&text=Mosaddik%20Billah&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI%20and%20Automation%20Engineer&descAlignY=55&animation=twinkling&section=header" />
 
 <div align="center">
 
@@ -14,7 +14,9 @@
 
 </div>
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
+
 
 ## 👋 About me
 
@@ -27,7 +29,9 @@
 
 <br clear="right"/>
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
+
 
 ## 🚀 Featured projects
 
@@ -88,7 +92,9 @@ A collection of skills for Claude agents.
 </tr>
 </table>
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
+
 
 <div align="center">
 
@@ -146,7 +152,9 @@ A collection of skills for Claude agents.
 </tr>
 </table>
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
+
 
 ## 🛠️ Skills & Technologies
 
@@ -160,13 +168,26 @@ A collection of skills for Claude agents.
 
 **Exploring Now** &nbsp; ![Web Security](https://www.shieldcn.dev/badge/-Web_Security-1e1b4b.svg?logo=hackthebox&variant=default&size=sm) ![AI & Automation](https://www.shieldcn.dev/badge/-AI_%26_Automation-1e1b4b.svg?logo=openai&variant=default&size=sm) ![AI Agents](https://www.shieldcn.dev/badge/-AI_Agents-1e1b4b.svg?logo=anthropic&variant=default&size=sm)
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
+
 
 ## 📊 GitHub stats
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mosaddik-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=A5B4FC&icon_color=6366F1" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaddik-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=A5B4FC&langs_count=6" alt="Top languages" />
+
 <img src="https://streak-stats.demolab.com?user=mosaddik-dev&theme=tokyonight&hide_border=true&border_radius=10&ring=6366F1&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub streak" />
 
----
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosaddik-dev/mosaddik-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosaddik-dev/mosaddik-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mosaddik-dev/mosaddik-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6e40c9,100:6366f1&height=3" />
 
 ### 💬 Ask me about
 
@@ -176,8 +197,12 @@ A collection of skills for Claude agents.
 
 > I enjoy solving complex problems — and yeah, I *think* I'm funny 😄
 
+### 🤝 Let's connect
+
+<a href="https://www.linkedin.com/in/mosaddikdev"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://x.com/mosaddikdev"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" /></a>&nbsp;&nbsp;<a href="https://dev.to/mosaddik-dev"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="Dev.to" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=mosaddik-dev&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,100:6e40c9&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6366f1,100:6e40c9&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70" />
